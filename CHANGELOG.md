@@ -6,3 +6,5 @@
 ## Release 0.2.0
 - Main preparation
 - Feature 1
+- Feature 2
+- Fix critical bug
